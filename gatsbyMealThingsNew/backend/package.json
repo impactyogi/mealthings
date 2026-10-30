@@ -15,7 +15,7 @@
     "mailgun": "^0.5.0",
     "mailgun-js": "^0.22.0",
     "morgan": "~1.9.1",
-    "nodemailer": "^6.4.6",
+    "nodemailer": "^10.1.4",
     "nodemailer-mailgun-transport": "^2.0.0"
   }
 }
